@@ -13,3 +13,22 @@
  *= require_tree .
  *= require_self
  */
+
+* {
+  font-family: 'Poppins', Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+
+.form-container {
+  max-width: 400px;
+  margin: 50px auto;
+}
+
+.answer {
+  max-width: 400px;
+  margin: 50px auto;
+}
